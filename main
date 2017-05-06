@@ -1,0 +1,4 @@
+# include<iostream>
+int main(){
+cout<<mdzz<<endl;
+}
